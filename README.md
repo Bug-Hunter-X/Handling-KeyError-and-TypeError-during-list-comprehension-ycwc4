@@ -1,0 +1,1 @@
+This repository contains a Python example that illustrates how to handle KeyError and TypeError exceptions during list comprehension. The code includes a function that gracefully handles these exceptions, preventing program crashes. The function checks if the input is a list of dictionaries containing a 'value' key and prints an error message if the input is invalid.
